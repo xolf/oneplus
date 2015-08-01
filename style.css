@@ -20,7 +20,9 @@ h4 {
   font-size: 30px; }
 
 h5 {
-  font-size: 25.5px; }
+  font-size: 25.5px;
+  margin: 0px;
+  padding: 0px; }
 
 h6 {
   font-size: 18px; }
@@ -107,7 +109,7 @@ input:focus {
   background: rgba(255, 255, 255, 0.2); }
 
 .header {
-  padding: 100px 0px; }
+  padding: 3% 0px; }
   .header h1 {
     text-align: center; }
   .header a {
