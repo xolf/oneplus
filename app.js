@@ -57,6 +57,6 @@ $( document ).ready(function() {
                $("#result-img").attr("src", "//content.oneplus.net/skin/frontend/oneplus2015/default/images/feature/two/style-swap-" + src + ".png")
                $("#result-text").html("OnePlus 2 with the '" + color + "' cover and " + space + " space.");
                //$("#result-space").html(space);
-        }, 800);
+        }, 1);
     });
 });
